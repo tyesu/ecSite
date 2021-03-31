@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+.copy-container {
+	font-size: 50px;
+	display:flex;
+	justify-content: center;
+	margin-top: 50px;
+}
+
+.cotents-item {
+	height: 10px;
+	width: 10px;
+}
